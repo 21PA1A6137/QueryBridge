@@ -1,0 +1,11 @@
+pandas
+langchain
+langchain_community
+langchain_core
+langchain_groq
+SQLAlchemy
+PyYAML
+pyprojroot
+chromadb
+python-dotenv
+streamlit

@@ -1,0 +1,5 @@
+CustomerID,FirstName,LastName,Email,City
+1,John,Doe,john.doe@email.com,New York
+2,Jane,Smith,jane.smith@email.com,Los Angeles
+3,Mary,Johnson,mary.johnson@email.com,Chicago
+4,Michael,Brown,michael.brown@email.com,Houston
